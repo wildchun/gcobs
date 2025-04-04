@@ -1,6 +1,11 @@
 # gcobs 
 COBS(Consistent Overhead Byte Stuffing) for golang
 
+## usage
+
+```shell
+go get github.com/wildchun/gcobs
+```
 
 ## c implementation
 
